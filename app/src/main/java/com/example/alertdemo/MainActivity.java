@@ -27,4 +27,5 @@ public class MainActivity extends AppCompatActivity {
                 .show();
     }
     //Added this comment to check working og GIT commit
+    //2nd addition
 }
