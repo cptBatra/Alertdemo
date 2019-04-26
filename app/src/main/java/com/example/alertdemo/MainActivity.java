@@ -26,4 +26,5 @@ public class MainActivity extends AppCompatActivity {
                 .setNegativeButton("No",null)
                 .show();
     }
+    //Added this comment to check working og GIT commit
 }
